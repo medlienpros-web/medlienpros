@@ -27,7 +27,7 @@ import {
  * Logo
  * - Recommended: place your logo at /public/Logo.png and keep LOGO_SRC = "/Logo.png"
  */
-const LOGO_SRC = "/Logo.png";
+const LOGO_SRC = "/logo.jpg";
 
 const BRAND = {
   name: "MedLien Pros",
